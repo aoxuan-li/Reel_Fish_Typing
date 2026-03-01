@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"typing_start",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"typing_start",
+  "parent":{
+    "name":"reel_fish",
+    "path":"reel_fish.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

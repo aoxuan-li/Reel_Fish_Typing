@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"make_prompt",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"make_prompt",
+  "parent":{
+    "name":"reel_fish",
+    "path":"reel_fish.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
